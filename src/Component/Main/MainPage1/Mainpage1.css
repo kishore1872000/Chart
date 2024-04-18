@@ -1,0 +1,99 @@
+.Mainpage1 {
+    margin-top: -550px;
+    margin-left: 60px;
+    position: relative;
+    top: 20px;
+}
+
+.page1{
+    color: #343C6A;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: bold;
+    padding-bottom: 20px;
+    margin-left: 380px;
+}
+
+.Mainpage1 img {
+    margin-left: 100px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+    width: 35px;
+}
+
+.holdername4{
+    margin-top: 220px;
+    position: relative;
+    left: -230px;
+    top: -120px;
+    width: 195px;
+    height: 35px;
+}
+
+.holdername4 p {
+    color: #343C6A;
+    font-family: Lato;
+    font-size: 18px;
+}
+
+.balance1{
+    position: relative;
+    top: -80px;
+    font-size: 24px;
+    color: #343C6A;
+    font-family: Lato;
+}
+
+.balance1 p:nth-child(1) {
+    opacity: 1;
+    font-size: 15px;
+    position: relative;
+    left: -20px;
+}
+
+.balance1 p:nth-child(2) {
+    font-size: 20px;
+    position: relative;
+    left: -8px;
+}
+
+.Sign1{
+    position: relative;
+    top: -63px;
+    font-size: 20px;
+    color: #343C6A;
+    top: -3.4em;
+    font-weight: bold;
+}
+
+.holdername3 {
+    position: relative;
+    margin-left: -250px;
+}
+
+.holdername3 p {
+    color: #343C6A;
+    font-family: Lato;
+    font-size: 18px;
+    opacity: 1;
+}
+
+.NUM1 {
+    position: relative;
+    color: #343C6A;
+    margin-left: -300px;
+    top: 120px;
+    left: -110px;
+}
+
+.NUM1 p {
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.NUM1    img {
+    position: relative;
+    top: -50px;
+    width: 90px;
+}

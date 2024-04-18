@@ -1,0 +1,128 @@
+.Transefer {
+    position: relative;
+    left: -1590px;
+    top: 650px;
+}
+
+.Transefer h2 {
+    top: -70px;
+    left: 20px;
+    position: absolute;
+    font-size: 22px;
+    color: #343C6A;
+    font-weight: Inter;
+}
+.p1p {
+    left: -100px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+.p1p img {
+    width: 100%;
+    /* Make the image fill the container */
+    height: 100%;
+    /* Make the image fill the container */
+    object-fit: cover;
+    /* Ensure the image covers the entire container */
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 20px;
+}
+.container p:nth-child(2){
+    position: relative;
+    margin-top: 90px;
+    left: -60px;
+    width: 90px;
+    top: 10px;
+    margin-left: -10px;
+    font-size: 16px;
+}
+.container p:nth-child(3){
+    position: relative;
+    margin-top: 110px;
+    top: 20px;
+    left: -110px;
+    width: 80px;
+    margin-left: -20px;
+}
+.container2{
+    position: relative;
+    margin-left: 140px;
+    margin-top: -130px;
+}
+.container2 p:nth-child(2){
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 90px;
+    margin-left: -10px;
+    font-size: 16px;
+}
+.container2 p:nth-child(3){
+    position: relative;
+    width: 80px;
+    top: 20px;
+    left: 20px;
+}
+.container3{
+    position: relative;
+    top: -120px;
+    left: -20px;
+    margin-left: 280px
+}
+.container3 p:nth-child(2){
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 90px;
+    margin-left: -10px;
+    font-size: 16px;
+}
+.container3 p:nth-child(3){
+    position: relative;
+    width: 80px;
+    top: 20px;
+    left: 20px;
+}
+.container4{
+    margin-top: -60px;
+    margin-left: 20px;
+}
+.container4  p:nth-child(1){
+    margin-left: 20px;
+   color:  #718EBF;
+   font-family: Inter;
+   font-size: 16px;
+}
+.container4 p:nth-child(2){
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 18px;
+    margin-left: 200px;
+    position: relative;
+    top: -35px;
+    left: -80px;
+}
+.container4 p:nth-child(3){
+    background-color: #1814F3;
+    padding: 10px;
+    border-radius: 18px;
+    margin-left: 250px;
+    position: relative;
+    margin-top: -55px;
+    top: -20px;
+    left: -60px;
+    color: white;
+}
+.point{
+    position: relative;
+    color: white;
+    top: -50px;
+    left: 260px;
+    cursor: pointer;
+}

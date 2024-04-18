@@ -1,0 +1,98 @@
+.Mainpage {
+    margin-top: -550px;
+    margin-left: 40px;
+    top: 20px;
+    position: relative;
+}
+
+.page {
+    color: #343C6A;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.Mainpage img {
+    margin-left: 100px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+    width: 35px;
+}
+
+.holdername {
+    margin-top: 220px;
+    position: relative;
+    left: -230px;
+    top: -120px;
+    width: 195px;
+    height: 35px;
+}
+
+.holdername p {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 18px;
+}
+
+.balance {
+    position: relative;
+    top: -80px;
+    font-size: 24px;
+    color: white;
+    font-family: Lato;
+}
+
+.balance p:nth-child(1) {
+    opacity: 1;
+    font-size: 15px;
+    position: relative;
+    left: -20px;
+}
+
+.balance p:nth-child(2) {
+    font-size: 20px;
+    position: relative;
+    left: -8px;
+}
+
+.Sign {
+    position: relative;
+    top: -63px;
+    font-size: 20px;
+    color: #ffffff;
+    top: -3.4em;
+    font-weight: bold;
+}
+
+.holdername2 {
+    position: relative;
+    margin-left: -250px;
+}
+
+.holdername2 p {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 18px;
+    opacity: 1;
+}
+
+.NUM {
+    position: relative;
+    color: #ffffff;
+    margin-left: -300px;
+    top: 120px;
+    left: -110px;
+}
+
+.NUM p {
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.NUM img {
+    position: relative;
+    top: -50px;
+    width: 90px;
+}

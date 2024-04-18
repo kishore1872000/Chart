@@ -1,0 +1,15 @@
+.Chartcol {
+    position: relative;
+    left: -480px;
+    margin-top: 300px;
+    margin-left: -1100px;
+}
+
+.Chartcol h2 {
+    top: -70px;
+    left: 20px;
+    position: absolute;
+    font-size: 22px;
+    color: #343C6A;
+    font-weight: Inter;
+}

@@ -1,0 +1,19 @@
+.Chart {
+    position: relative;
+    left: 1250px;
+    margin-left: -700px;
+    top: -100px; 
+    margin-bottom: -1200px; 
+    margin-right: 100px;
+    margin-top: 210px;
+
+}
+
+.Chart h2 {
+    top: -70px;
+    left: 20px;
+    position: absolute;
+    font-size: 22px;
+    color: #343C6A;
+    font-weight: Inter;
+}

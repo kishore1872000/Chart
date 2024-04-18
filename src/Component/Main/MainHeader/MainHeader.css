@@ -1,0 +1,106 @@
+.MainHeader {
+    margin-left: 280px;
+    width: 1440px;
+    height: 101px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px;
+    border-bottom: 1px solid rgb(0, 0, 0, 0.15);
+}
+
+.MainHeader h2 {
+    margin-left: 20px;
+    width: 134px;
+    height: 34px;
+    text-align: left;
+    color: #343C6A;
+    font-family: Inter;
+    font-size: 37px;
+}
+
+.Search {
+    position: relative;
+    margin-left: 800px;
+    left: -183px;
+    width: 255px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+}
+
+.iconsearch {
+    margin-top: 20px;
+    position: relative;
+    top: -5px;
+    left: 20px;
+    width: 19px;
+    height: 19px;
+    color: #718EBF;
+}
+
+.Search p {
+    position: relative;
+    top: -30px;
+    left: 50px;
+    width: 157px;
+    height: 18px;
+    color: hsl(218, 38%, 60%);
+    text-align: left;
+    font-family: Inter;
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: #8BA3CB;
+    opacity: 1;
+}
+
+.setting {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    position: relative;
+    left: -150px;
+}
+
+.iconsetting {
+    font-size: 40px;
+    color: #718EBF;
+}
+
+.setting1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: -120px;
+    width: 50px;
+    height: 50px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    
+}
+
+.LubellDOT {
+    font-size: 30px;
+    color: #FE5C73;
+}
+.profile {
+    position: relative;
+    left: -100px;
+    width: 70px; /* Adjust width as needed */
+    height: 70px; /* Adjust height as needed */
+    border-radius: 50%; /* Make the profile picture round */
+    overflow: hidden; /* Ensure the image doesn't overflow the container */
+  }
+  
+  .profile img {
+    width: 100%; /* Make the image fill the container */
+    height: 100%; /* Make the image fill the container */
+    object-fit: cover; /* Ensure the image covers the entire container */
+  }
+ 
